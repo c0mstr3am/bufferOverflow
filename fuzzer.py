@@ -12,7 +12,7 @@ if len(sys.argv)!=3:
 	exit(0)
 else:
 	pass
-
+#lenght 30
 while len(buffer) <= 30:
 	buffer.append("A"*counter)
 	counter=counter+200
